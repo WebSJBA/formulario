@@ -1,0 +1,29 @@
+:root {
+    --blanco: #fff;
+    --negro: #000;
+    --principal: #00b894;
+    --secundario: #0984e3;
+}
+
+html {
+    box-sizing: border-box;
+    font-size: 62.5%;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+body {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+h1 { }
+h2 { }
+h3 { }
+
+.contenedor {
+    max-width: 120rem;
+    margin: 0 auto;
+}
